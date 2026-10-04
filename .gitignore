@@ -147,3 +147,8 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Ignore private and public key files
+private.pub
+private.key
+/private/
